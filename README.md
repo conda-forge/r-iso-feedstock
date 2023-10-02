@@ -3,6 +3,7 @@ About r-iso-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-iso-feedstock/blob/main/LICENSE.txt)
 
+
 About r-iso
 -----------
 
@@ -11,6 +12,7 @@ Home: http://www.stat.auckland.ac.nz/~rolf/
 Package license: GPL-2.0-or-later
 
 Summary: Linear order and unimodal order (univariate) isotonic regression; bivariate isotonic regression with linear order on both variables.
+
 About r-iso
 -----------
 
